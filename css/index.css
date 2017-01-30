@@ -338,19 +338,19 @@ position: absolute;
 .icon3{
     top:3.55rem;
     left: 2.05rem;
-    background:#fff url("../img/js (1).png") no-repeat center;
+    background:#fff url("../img/jquery.png") no-repeat center;
     background-size:cover;
 }
 .icon4{
     top:4.55rem;
     left:2.59rem;
-    background:#fff url("../img/jquery.png") no-repeat center;
+    background:#fff url("../img/js (1).png") no-repeat center;
     background-size:cover;
 }
 .icon5{
     top:5.55rem;
     left: 2.05rem;
-    background:#fff url("../img/social-angular.png") no-repeat center;
+    background:#fff url("../img/Node.js.png") no-repeat center;
     background-size:cover;
 }
 .icon6{
@@ -362,7 +362,7 @@ position: absolute;
 .icon7{
     top:7.55rem;
     left: 1.05rem;
-    background:#fff url("../img/Node.js.png") no-repeat center;
+    background:#fff url("../img/social-angular.png") no-repeat center;
     background-size:cover;
 }
 
